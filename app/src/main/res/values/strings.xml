@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxJavaSample</string>
+    <string name="item1">AutoBackground</string>
+    <string name="item2">QuickClick</string>
+</resources>
